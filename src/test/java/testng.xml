@@ -1,0 +1,7 @@
+<suite name="Unit Tests" verbose="1">
+    <test name="All Tests">
+        <packages>
+            <package name="ir.ac.ui.ontodebugger.*"/>
+        </packages>
+    </test>
+</suite>
